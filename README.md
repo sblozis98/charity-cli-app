@@ -22,3 +22,8 @@ To run this application locally:
 2. **Run the Application:**
    ```bash
    php charity_manager.php
+
+## Notes
+
+This project was created by **Simonas Bložis** as part of a two-day internship assignment.
+
