@@ -25,5 +25,5 @@ To run this application locally:
 
 ## Notes
 
-This project was created by **Simonas Bložis** as part of a two-day internship assignment.
+This project was created by **Simonas Bložis** as part of a twoday internship assignment.
 
